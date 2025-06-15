@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Good Sam Connect - People Helping People</title>
+<style>
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0; padding: 0; background: #f9fafb; color: #222;
+  }
+  header {
+    background: #0077cc; color: white; padding: 2rem 1rem; text-align: center;
+  }
+  header h1 {
+    margin: 0; font-size: 2.5rem;
+  }
+  main {
+    max-width: 700px; margin: 2rem auto; padding: 0 1rem;
+  }
+  section {
+    margin-bottom: 2rem;
+  }
+  h2 {
+    color: #0077cc;
+    border-bottom: 2px solid #0077cc;
+    padding-bottom: 0.3rem;
+  }
+  p {
+    line-height: 1.5;
+  }
+  ul {
+    margin-left: 1.5rem;
+  }
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background: #eee;
+    color: #555;
+    font-size: 0.9rem;
+  }
+  a.button {
+    display: inline-block;
+    background: #0077cc;
+    color: white;
+    padding: 0.6rem 1.2rem;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-top: 1rem;
+    font-weight: bold;
+  }
+  a.button:hover {
+    background: #005fa3;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Good Sam Connect</h1>
+  <p>People helping people — roadside and real-life emergencies</p>
+</header>
+<main>
+  <section>
+    <h2>Our Mission</h2>
+    <p>Good Sam Connect is a <strong>free, community-powered app</strong> that connects people in roadside or real-life emergencies with nearby helpers — from flat tires and medical crises to silent SOS and walking for water. We believe help should be free, fast, and human.</p>
+  </section>
+  <section>
+    <h2>How It Works</h2>
+    <ul>
+      <li>Users request help by selecting their emergency type.</li>
+      <li>Nearby verified helpers receive alerts and respond quickly.</li>
+      <li>Helpers can accept tips or payments through the app.</li>
+      <li>AI powers smart routing, safety checks, and escalations.</li>
+    </ul>
+  </section>
+  <section>
+    <h2>Why Sponsor Good Sam Connect?</h2>
+    <ul>
+      <li>Align your brand with a life-saving mission and community impact.</li>
+      <li>Gain visibility inside the app, press, and social media.</li>
+      <li>Engage your employees as active Good Sams helping the community.</li>
+      <li>Transparent impact reporting and PR benefits.</li>
+    </ul>
+  </section>
+  <section>
+    <h2>Sponsorship Opportunities</h2>
+    <p>Become a Founder, Premium Partner, or Supporter with tailored branding packages. Your sponsorship keeps the app free and helpers paid while boosting your brand’s goodwill.</p>
+  </section>
+  <section>
+    <h2>Get Involved</h2>
+    <p>Join us in building a safer, kinder world. To learn more or become a sponsor, contact:</p>
+    <p><strong>Email:</strong> landon.perry@example.com</p>
+    <a href="mailto:landon.perry@example.com" class="button">Contact Landon</a>
+  </section>
+</main>
+<footer>
+  &copy; 2025 Good Sam Connect. All rights reserved.
+</footer>
+</body>
+</html>
